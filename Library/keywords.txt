@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TQED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getCount	KEYWORD2
+centerCount	KEYWORD2
+resetCount	KEYWORD2
+setAddress	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
